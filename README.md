@@ -6,6 +6,12 @@
  4. Spot size
  5. Edge points
  
+ 
+ # Code is based on point cloud library
+ 
+ 
+ 
+ 
  Visual studio solution including all necessary depedencies:
  
  Example Folder includes:
