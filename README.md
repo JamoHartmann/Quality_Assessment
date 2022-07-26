@@ -8,7 +8,8 @@
  
  
  # -------------------------------------------------------
- Code depend on the point cloud library \n
+ Code depend on the point cloud library 
+ 
  --> QualityAssessment.h holds the functions
  
  Visual studio solution including all necessary depedencies:
