@@ -1,4 +1,4 @@
-# Quality_Assessment
+# TLS Quality Assessment
  terrestrial laserscanning (TLS) Quality assessment including:
  1. 3D local precision (variance covariance propagation of uncertanties of the tls- observations (two angle one distance) -> distance precision is calculated by the intensity based model) 
  2. 3D global precision (variance covariance propagation of uncertainties of transformation parameters)
