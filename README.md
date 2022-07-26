@@ -7,10 +7,9 @@
  5. Edge points
  
  
- # Code is based on point cloud library
- 
- 
- 
+ # -------------------------------------------------------
+ Code depend on the point cloud library
+ --> QualityAssessment.h own every function
  
  Visual studio solution including all necessary depedencies:
  
